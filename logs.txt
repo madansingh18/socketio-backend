@@ -1,0 +1,14 @@
+2015-04-12T13:27:22.146656+00:00 heroku[api]: Enable Logplex by madansingh18@gmail.com
+2015-04-12T13:27:22.146656+00:00 heroku[api]: Release v2 created by madansingh18@gmail.com
+2015-04-12T13:27:52.730307+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=polar-coast-4154.herokuapp.com request_id=3afbb144-a05d-41a7-80c9-29d0400ef533 fwd="182.69.213.117" dyno= connect= service= status=502 bytes=
+2015-04-12T13:27:53.156000+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=polar-coast-4154.herokuapp.com request_id=d75def1b-c4fa-4aad-8906-8aa5ab88722e fwd="182.69.213.117" dyno= connect= service= status=502 bytes=
+2015-04-12T13:29:17.798374+00:00 heroku[api]: Deploy a05413c by madansingh18@gmail.com
+2015-04-12T13:29:17.798374+00:00 heroku[api]: Release v3 created by madansingh18@gmail.com
+2015-04-12T13:29:31.021273+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=polar-coast-4154.herokuapp.com request_id=5887c310-7607-4e50-98d1-c0c0021f5ca2 fwd="182.69.213.117" dyno= connect= service= status=503 bytes=
+2015-04-12T13:29:32.787673+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=polar-coast-4154.herokuapp.com request_id=a7ca973f-f1f0-42f7-b243-a8cfeebee4ad fwd="182.69.213.117" dyno= connect= service= status=503 bytes=
+2015-04-12T13:30:36.583445+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=polar-coast-4154.herokuapp.com request_id=3df7081e-e7bb-4e7f-a65b-8aa2dfdca5ef fwd="182.69.213.117" dyno= connect= service= status=503 bytes=
+2015-04-12T13:30:37.349365+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=polar-coast-4154.herokuapp.com request_id=ad7ca28d-f311-4225-a1ba-ac35d4b2089f fwd="182.69.213.117" dyno= connect= service= status=503 bytes=
+2015-04-12T13:42:22.784974+00:00 heroku[api]: Deploy fbce6d1 by madansingh18@gmail.com
+2015-04-12T13:42:22.784974+00:00 heroku[api]: Release v4 created by madansingh18@gmail.com
+2015-04-12T13:42:37.756830+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=polar-coast-4154.herokuapp.com request_id=f1c61722-0eef-48f5-a6e2-8d67ff4541ee fwd="182.69.213.117" dyno= connect= service= status=503 bytes=
+2015-04-12T13:42:38.147157+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=polar-coast-4154.herokuapp.com request_id=5b777519-61e5-494b-884a-6ed4b0b17041 fwd="182.69.213.117" dyno= connect= service= status=503 bytes=
